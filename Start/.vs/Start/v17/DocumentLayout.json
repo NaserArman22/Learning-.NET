@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\views\\person\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\views\\person\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|c:\\users\\hp\\source\\repos\\start\\start\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C9731-2991-411C-BA6B-0FB155EFC3C1}|Start\\Start.csproj|solutionrelative:start\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Start\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Start\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T15:13:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Start\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\Web.config",
+              "RelativeToolTip": "Start\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-10T15:11:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Start\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Start\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T15:11:43.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Start\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Start\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:11:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Start\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Start\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:11:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Start\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Start\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:10:56.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\Person\\List.cshtml",
+              "RelativeDocumentMoniker": "Start\\Views\\Person\\List.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Views\\Person\\List.cshtml",
+              "RelativeToolTip": "Start\\Views\\Person\\List.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T15:04:27.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Start\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Start\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:03:58.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Start\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Start\\Start\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Start\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:03:09.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
