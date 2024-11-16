@@ -1,0 +1,24 @@
+﻿@model formValidation.Models.Student
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+@Html.ValidationSummary()
+<form method="post">
+    <input type="text" value="@Model.Name" name="Name" class="form-control" placeholder="name" />
+    <span class="text-bg-danger">@Html.ValidationMessage("Name")</span>
+    <input type="text" value="@Model.email" name="email" class="form-control" placeholder="email" />
+    <span class="text-danger">@Html.ValidationMessage("email")</span>
+    <input type="password" value="@Model.password" name="password" class="form-control" placeholder="password" />
+    <span class="text-danger">@Html.ValidationMessage("password")</span>
+    <input type="text" value="@Model.ID" name="Id" class="form-control" placeholder="Id" />
+    <span class="text-danger">@Html.ValidationMessage("ID");</span>
+    <input type="submit" value="Create" class="btn btn-success" />
+</form>
+
+
+
+
+
+
