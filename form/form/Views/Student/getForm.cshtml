@@ -1,0 +1,22 @@
+﻿@model form.Models.Student
+@{
+    ViewBag.Title = "getForm";
+}
+
+<h2>getForm</h2>
+<table class="table table-bordered">
+    <tr>
+        <td>Name</td>
+        <td>ID</td>
+        <td>CGPA</td>
+    </tr>
+    <tr>
+        <td>
+            @Model.Name
+        </td>
+        <td>@Model.Id</td>
+           <td>@Model.CGPA</td>
+
+    </tr>
+</table>
+
