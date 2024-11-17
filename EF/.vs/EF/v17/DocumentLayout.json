@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\dot net\\Learning Dot Net\\EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|g:\\dot net\\learning dot net\\ef\\ef\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|g:\\dot net\\learning dot net\\ef\\ef\\models\\student.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\student.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|g:\\dot net\\learning dot net\\ef\\ef\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|g:\\dot net\\learning dot net\\ef\\ef\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|g:\\dot net\\learning dot net\\ef\\ef\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\models\\student.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\student.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\models\\student.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\student.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\models\\student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\models\\student.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\student.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|G:\\dot net\\Learning Dot Net\\EF\\ef\\models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46AAE0-2A6F-456C-A33F-9D3829493FE8}|EF\\EF.csproj|solutionrelative:ef\\models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "EF\\Views\\Student\\Details.cshtml",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "EF\\Views\\Student\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T18:32:42.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EF\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "EF\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T18:31:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EF\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "EF\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T18:30:51.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "EF\\App_Start\\RouteConfig.cs",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "EF\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:00:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list.cshtml",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\list.cshtml",
+              "RelativeDocumentMoniker": "EF\\Views\\Student\\list.cshtml",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\list.cshtml",
+              "RelativeToolTip": "EF\\Views\\Student\\list.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T21:20:36.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.Context.tt",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.Context.tt",
+              "RelativeDocumentMoniker": "EF\\Models\\student.Context.tt",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.Context.tt",
+              "RelativeToolTip": "EF\\Models\\student.Context.tt",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T20:47:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.edmx [Diagram1]",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.edmx",
+              "RelativeDocumentMoniker": "EF\\Models\\student.edmx",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.edmx [Diagram1]",
+              "RelativeToolTip": "EF\\Models\\student.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-16T20:45:00.137Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EF\\Controllers\\StudentController.cs",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EF\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwEcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:33:19.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "student.Context.cs",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.Context.cs",
+              "RelativeDocumentMoniker": "EF\\Models\\student.Context.cs",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.Context.cs",
+              "RelativeToolTip": "EF\\Models\\student.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:48:06.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "EF\\Views\\Student\\Create.cshtml",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "EF\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T21:05:44.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EF\\Models\\Student.cs",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\Student.cs",
+              "RelativeToolTip": "EF\\Models\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:47:24.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "student.Designer.cs",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.Designer.cs",
+              "RelativeDocumentMoniker": "EF\\Models\\student.Designer.cs",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.Designer.cs",
+              "RelativeToolTip": "EF\\Models\\student.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:26:16.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "student.edmx.diagram",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.edmx.diagram",
+              "RelativeDocumentMoniker": "EF\\Models\\student.edmx.diagram",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\student.edmx.diagram",
+              "RelativeToolTip": "EF\\Models\\student.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-16T20:46:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "department.cs",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\department.cs",
+              "RelativeDocumentMoniker": "EF\\Models\\department.cs",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\department.cs",
+              "RelativeToolTip": "EF\\Models\\department.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:53:48.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cours.cs",
+              "DocumentMoniker": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\cours.cs",
+              "RelativeDocumentMoniker": "EF\\Models\\cours.cs",
+              "ToolTip": "G:\\dot net\\Learning Dot Net\\EF\\EF\\Models\\cours.cs",
+              "RelativeToolTip": "EF\\Models\\cours.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:47:18.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
